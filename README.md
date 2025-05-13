@@ -28,12 +28,10 @@ This project is part of a hands-on reinforcement learning exploration for educat
 ---
 
 ## 📁 Project Structure
-```
 Policy-Gradient-RL/
 ├── code.py             # Full REINFORCE implementation
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project overview and documentation
-```
 
 ---
 
